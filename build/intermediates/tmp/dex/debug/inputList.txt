@@ -1,0 +1,2 @@
+C:\Users\Auser\Desktop\weixin6_0\build\intermediates\classes\debug
+C:\Users\Auser\Desktop\weixin6_0\build\intermediates\pre-dexed\debug\android-support-v4-1c766eca5e7bd386e42bcfc79763f2b77d7277ff.jar
